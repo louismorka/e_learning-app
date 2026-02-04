@@ -25,5 +25,5 @@ This app focuses on accessibility, structured learning, and user-friendly naviga
 
 🛠 Tech Stack
 Layer	Technology
-Frontend	Android (Kotlin / Java)
+Flutter/Dart
 Backend	Firebase (Auth, Firestore, Storage)
